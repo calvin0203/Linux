@@ -27,6 +27,7 @@ root@kali:/#
 ```
 cd (change directory) // .. 回到上一層目錄 //
 pwd (print name of current/working directory) 列出目前的工作目錄 //
+ls 
 ```
 
 ### 創建資料夾、使用wget下載、使用gedit
