@@ -52,4 +52,29 @@ f9751  test.py
 root@kali:/python#
 ```
 
+### 創造、執行Python程式
+```
+root@kali:~# cd /
+root@kali:/# cd python
+root@kali:/python# gedit ch10-4test.py
+root@kali:/python# python3 ch10-4test.py
+Where do you live? Taiwan
+Taiwan!
+I hear it's nice there!
+root@kali:/python# gedit ch10-5test.py
+root@kali:/python# python3 ch10-5test.py
+Enter a number to find the square of: 2
+Enter a integer to find the square of: 5
+25
+root@kali:/python# gedit ch10-6test.py
+root@kali:/python# python3 ch10-6.test.py
+python3: can't open file 'ch10-6.test.py': [Errno 2] No such file or directory
+root@kali:/python# python3 ch10-6test.py
+Enter a number: 50
+Enter another number: 23
+50.0 * 23.0 = 1150.0
+root@kali:/python# ^C
+root@kali:/python#
+
+```
 
