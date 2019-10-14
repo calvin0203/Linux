@@ -10,7 +10,7 @@ top
 ps
 ping
 ```
-###log
+### log
 ```
 root@kali:~# pwd
 /root
